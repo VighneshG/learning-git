@@ -3,3 +3,10 @@ Hello vighnesh!
 This is from a new branch hi-fi.
 :)
 
+Hey! this could cause a conflict! this commit is from new/feature branch! 
+
+Good Luck resolving this conflict! ;)
+
+
+Resolved the conflicts!!!
+
